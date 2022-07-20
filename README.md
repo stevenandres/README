@@ -5,7 +5,7 @@ This perpetually work-in-progress document is an attempt at an efficient way to 
 
 ## Inspiration
 
-Does this seem weird? That is by design. This README is inspired by examples from [Roy Rapoport](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/), [Michael Lopp](https://randsinrepose.com/archives/how-to-rands), [Molly White](https://github.com/molly/manager-README), [Richard Money](https://onedrive.live.com/view.aspx?resid=61BC36893133C60A!1165&authkey=!APyYqIf2yhV-OzE), and [Aaron Lerch](https://docs.google.com/presentation/d/1usdIfRIqOCRUOaMsElQp9Rqu8WYgBypdsxqeZaRCcj0/). While the format has largely fallen out of favor, it was all the rage in 2018. 
+Does this seem weird? That is by design. This README is inspired by examples from [Roy Rapoport](https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/), [Michael Lopp](https://randsinrepose.com/archives/how-to-rands), [Molly White](https://github.com/molly/manager-README), [Richard Money](https://onedrive.live.com/view.aspx?resid=61BC36893133C60A!1165&authkey=!APyYqIf2yhV-OzE), [Tom Sommer](https://docs.google.com/presentation/d/1dyXqfOlf2aPNQ0ZOc4HvQ0WzYCN_AYSvA_X5hk6fJqE/), and [Aaron Lerch](https://docs.google.com/presentation/d/1usdIfRIqOCRUOaMsElQp9Rqu8WYgBypdsxqeZaRCcj0/). While the format has largely fallen out of favor, it was _all the rage_ in 2018! 
 
 ## Motivation
 
@@ -13,28 +13,48 @@ What gets me up in the morning? Challenging and interesting problems that I can 
 
 ## What I should be doing
 
-* Attract, retain, and grow high performing team members
-* Foster a collaborative and innovative team culture
-* Thoroughly explain the objective and key results for the team
-* Stand back allowing talented team members and SME to execute within constraints 
-* Solicit and provide timely suggestions on improvement
-* Be accountable for project success (the buck stops here)
+* __Attract, retain, and grow__ high performing team members
+* Foster a collaborative, safe, innovative __team culture__ where all ideas matter
+* Thoroughly __explain the objective__ and key results for the team's initiatives
+* Identify __directly-responsible__ individuals [(DRI)](https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/) and supporting members
+* __Stand back__, allowing talented DRI + SME to execute within constraints 
+* Be __accountable__ for project success (the buck stops here, own the failures)
+* Promote a __bias for action__; if we fail, let's fail fast and iterate
+* Where feasible, __persuade__ your acceptance of the path forward rather than proclaim
+* Solicit and provide timely __[suggestions](#feedback)__ on improvement and dissenting opinions
 
-_If you feel I am not meeting these goals, you would be doing me a favor by informing me promptly._
+📌 _If you feel I am not meeting these goals, you would be doing me a favor by informing me promptly._ Nobody wants to be micro-managed or be the micro-manager.
 
 ## Feedback
 
-The term _feedback_ has been loaded with negative connotations; I prefer the framework of _suggestons for improvement_ because who wouldn't welcome a suggestion?
+The term _feedback_ has been loaded with negative connotations; I prefer the framework of __suggestons for improvement__ because who wouldn't welcome a suggestion?
 
 * __SAFETY__: It is my job to foster an environment where you feel you will not be punished for voicing dissenting opinions
+* __INTENT__: Always assume good intent; re-read in the voice of your favorite grandmother
 * __EFFORT__: Voicing your opinion to me (and other team members) should be common and not require bravery 
 * __TIMELY__: Suggestions are most impactful if they are delivered as near the subject event as possible
 * __SPECIFIC__: Without specificity (examples), suggestions are unactionable and less impactful
+* __IMPACT__: Use SBI sentences (e.g., "when you did _$situation_, I felt _$behavior_ because of _$impact_") 
 * __OFTEN__: If we feel safe, specific, low-effort, timely suggestions should be a social norm (daily, hourly)
 * __FORUM__: We will not wait for a 1:1 to provide suggestions; a timely Slack direct message is effective
 * __PRAISE__: Use (or build) workplace kudos-awarding mechanisms to make successes public
 * __INERTIA__: The absence of suggestions is a signal itself; keep steady on your current course
-* __ACTION__: You are responsible to think critically on the gift you have received and what next steps to take (including discarding the gift)
+* __THANK__: Receiving the gift of feedback does not mean agreeing to it; always thank the gift-giver
+* __ACTION__: You are responsible to think critically on what you heard and what next steps to take (including discarding the gift)
+
+### Radical Candor
+
+<img alt="Radical Candor quadrants" title="Aim for RADICAL CANDOR" width="400" src="https://global-uploads.webflow.com/5fa4aac1f837ef5fa264e521/600c9c8874b3f73f254be4bb_radical-candor-quadrants0.jpg">
+
+If you have the time, read [_Radical Candor_](https://www.radicalcandor.com/) by Kim Scott. Or, watch this [6-minute video summary](https://www.youtube.com/watch?v=YLBDkz0TwLM).
+
+## Leadership
+
+What would a trendy introspective doc be without a great chart, right? I like the [Situational Leadership](https://en.wikipedia.org/wiki/Situational_leadership_theory) approach, aiming for the middle band of _Directing, Guiding,_ and _Empowering_ as appropriate to the project:
+
+<img alt="Leadership Styles quadrant" title="from leadership.org.au which is no longer available" src="https://miro.medium.com/max/1400/1*u4KjDYlUS5wp5R76C4XUaw.png">
+
+📌 _If I'm operating in the top (Controlling, Coordinating, Delegating) or bottom (Advising, Collaborating, Participating) bands, something is off -- please call it to my attention._
 
 ## Communication
 
@@ -138,11 +158,18 @@ method | format/urgency  | examples | notes
 
 ### GDocs
 
-### Tickets
+* Turn off __View > Show Print Layout__; these docs should not be printed (typically)
+* Use __styles__ appropriately with heading levels; this aids in sending deep-linked URLs
+* Pet peeve: change __margins to ½ inch__ (1.3 cm) all around to be more visually efficient
+* Pet peeve: use a consistent font size for __normal text__ (typically 11 or 12 points)
 
-### Dashboards
 
 ### Agendas
 
 * Agenda [GDoc](#gdocs) can double as meeting notes; use reverse order with most recent meeting at top, allowing new team members to catch up on the meeting's history
+
+### Tickets
+
+### Dashboards
+
 
